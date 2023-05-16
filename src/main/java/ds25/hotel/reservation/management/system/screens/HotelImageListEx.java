@@ -89,7 +89,7 @@ public class HotelImageListEx extends JFrame implements ActionListener, ListSele
     public void valueChanged(ListSelectionEvent e) {
         if (hotelList.getSelectedIndex() == -1) {
         } else { //선택되지 않은 경우 –1을 반환한다.
-            //선택이 된 경우
+            //선택이 된 경우.
         }
 
         /*if (hotelList.getSelectedItem().equals(name) {
